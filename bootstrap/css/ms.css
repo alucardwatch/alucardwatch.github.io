@@ -1,0 +1,31 @@
+*{margin: 0; padding:0;}
+.shareThis{
+	margin: 15px;
+}
+.shareThis h3{
+	margin: 5px;
+}
+.shareThis img{
+	width:30px;
+	height:30px;
+}
+.shareThis img:hover{
+	opacity: 0.5;
+	color: #800000;
+}
+
+.share{
+	margin: 15px;
+}
+.share h3{
+	margin: 5px;
+}
+.share img{
+	width:80px;
+	height:40px;
+	margin:5px;
+}
+.share img:hover{
+	opacity: 0.5;
+	color: #800000;
+}
